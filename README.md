@@ -1,2 +1,1 @@
-# code
-Complitation of Data Science Code in Python
+# Complitation of Data Science Code in Python
